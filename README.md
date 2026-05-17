@@ -120,6 +120,6 @@ Linear Regression captures general pricing trends but struggles with nonlinear r
 
 Ensemble learning methods, particularly **Random Forest** and **XGBoost**, significantly outperform traditional regression techniques for used car price prediction. With R² values exceeding **0.85**, these models effectively capture complex feature interactions and generalize well to unseen data.
 
-This project provides a comprehensive comparison of predictive models on a real-world dataset and serves as a strong benchmark for future research and applications in automotive price prediction.
+This project provides a comprehensive comparison of predictive models on a real-world dataset and serves as a strong benchmark for future research and applications in automotive price prediction
 
 --- 
